@@ -8,4 +8,5 @@ Em seguida, arraste index.html sobre a janela do navegador.
 
 Para testar, você pode imprimir as amostras de print.ppt, desenhar suas próprias imagens ou ensinar coisas totalmente diferentes.
 
-Aproveitar :-)
+Aproveitar.
+projeto funcionando:https://francisguitt.github.io/machine-learn-aprendizado-de-maquina/
