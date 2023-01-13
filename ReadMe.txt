@@ -1,3 +1,5 @@
+projeto funcionando:https://francisguitt.github.io/machine-learn-aprendizado-de-maquina/
+
 Abrir index.html em seu navegador favorito deve funcionar.
 
 Se as amostras não carregarem, tente abrir o Google Chrome acessando Windows > Executar e digite
